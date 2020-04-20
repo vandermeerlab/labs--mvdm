@@ -1,3 +1,7 @@
 [submodule "MotivationalT"]
 	path = MotivationalT
 	url = /mnt/btrfs/datasets/datalad/crawl/labs/mvdm/../../workshops/mind-2017/MotivationalT
+[submodule "MotivationalT-v2"]
+	path = MotivationalT-v2
+	url = ./MotivationalT-v2
+	datalad-id = 7262bcd0-8342-11ea-b4e1-002590f97d84
