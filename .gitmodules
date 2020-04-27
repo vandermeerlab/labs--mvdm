@@ -5,3 +5,8 @@
 	path = MotivationalT-v2
 	url = ./MotivationalT-v2
 	datalad-id = 7262bcd0-8342-11ea-b4e1-002590f97d84
+[submodule "WidebandTest"]
+	path = WidebandTest
+	url = ./WidebandTest
+	branch = master
+	datalad-id = bb67d148-88d0-11ea-9640-002590f97d84
