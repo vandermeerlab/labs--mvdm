@@ -10,3 +10,7 @@
 	url = ./WidebandTest
 	branch = master
 	datalad-id = bb67d148-88d0-11ea-9640-002590f97d84
+[submodule "BiconditionalOdor"]
+	path = BiconditionalOdor
+	url = ./BiconditionalOdor
+	datalad-id = f4bba2f8-a9d2-11ea-a6f2-002590f97d84
