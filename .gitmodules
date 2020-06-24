@@ -14,3 +14,7 @@
 	path = BiconditionalOdor
 	url = ./BiconditionalOdor
 	datalad-id = f4bba2f8-a9d2-11ea-a6f2-002590f97d84
+[submodule "BiconditionalOdor-derived"]
+	path = BiconditionalOdor-derived
+	url = ./BiconditionalOdor-derived
+	datalad-id = 0e4d0178-b647-11ea-8ecb-002590f97d84
