@@ -1,22 +1,22 @@
 [submodule "MotivationalT"]
 	path = MotivationalT
-	url = /mnt/btrfs/datasets/datalad/crawl/labs/mvdm/../../workshops/mind-2017/MotivationalT
+	url = http://datasets.datalad.org/labs/mvdm/MotivationalT/.git
 [submodule "MotivationalT-v2"]
 	path = MotivationalT-v2
-	url = ./MotivationalT-v2
+	url = http://datasets.datalad.org/labs/mvdm/MotivationalT-v2/.git
 	datalad-id = 7262bcd0-8342-11ea-b4e1-002590f97d84
 [submodule "WidebandTest"]
 	path = WidebandTest
-	url = ./WidebandTest
+	url = http://datasets.datalad.org/labs/mvdm/WidebandTest/.git
 	branch = master
 	datalad-id = bb67d148-88d0-11ea-9640-002590f97d84
 [submodule "BiconditionalOdor"]
 	path = BiconditionalOdor
-	url = ./BiconditionalOdor
+	url = http://datasets.datalad.org/labs/mvdm/BiconditionalOdor/.git
 	datalad-id = f4bba2f8-a9d2-11ea-a6f2-002590f97d84
 [submodule "BiconditionalOdor-derived"]
 	path = BiconditionalOdor-derived
-	url = ./BiconditionalOdor-derived
+	url = http://datasets.datalad.org/labs/mvdm/BiconditionalOdor-derived/.git
 	datalad-id = 0e4d0178-b647-11ea-8ecb-002590f97d84
 [submodule "Kilosort2_results"]
 	path = Kilosort2_results
