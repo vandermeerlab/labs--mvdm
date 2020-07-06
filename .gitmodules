@@ -18,3 +18,7 @@
 	path = BiconditionalOdor-derived
 	url = ./BiconditionalOdor-derived
 	datalad-id = 0e4d0178-b647-11ea-8ecb-002590f97d84
+[submodule "Kilosort2_results"]
+	path = Kilosort2_results
+	url = https://github.com/manimoh/Kilosort2_results
+	datalad-id = 377501f6-b651-11ea-94ef-00d861a84706
